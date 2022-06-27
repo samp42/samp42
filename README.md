@@ -6,7 +6,6 @@
 
 ## :round_pushpin: Interests
 - Application Development
-- QA
 - Robotics
 - Computers, especially computer architecture
 
