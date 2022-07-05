@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" width="1000"/>
 </div>
 
+## :alien: About me
+- FRC Alumnus, team 3990
+- Currently engaged in Computer Engineering at McGill University
+
 ## :round_pushpin: Interests
 - Application Development
 - Robotics
