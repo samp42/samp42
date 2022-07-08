@@ -7,6 +7,7 @@
 ## :alien: About me
 - FRC Alumnus, team 3990
 - Currently engaged in Computer Engineering at McGill University
+- My favorite repository on github :octocat: is [the apollo guidance computer assembly code](https://github.com/chrislgarry/Apollo-11) :earth_americas::rocket::moon:
 
 ## :round_pushpin: Interests
 - Application Development
