@@ -1,7 +1,7 @@
 # WASSUP WORLD :earth_americas:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" width="1000"/>
+  <img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" width="800"/>
 </div>
 
 ## :alien: About me
