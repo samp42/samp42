@@ -1,4 +1,5 @@
 # WASSUP WORLD :earth_americas:
+![](https://komarev.com/ghpvc/?username=samp42&color=green&style=plastic)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" width="800"/>
