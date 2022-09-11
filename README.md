@@ -30,7 +30,7 @@ Scout Insights
 <div>
   <img src="https://user-images.githubusercontent.com/26767411/175856247-8198d0a5-86d8-40a3-9741-237d8ce8158a.png" title="ScoutInsights" alt="ScoutInsights" width="800"/>
 
-### [Computer-Orgnization-McGill](https://github.com/samp42/Computer-Organization-McGill)
+### [Tic Tac Toe](https://github.com/samp42/ARMv7-tic-tac-toe)
 A tic-tac-toe game implemented in ARM32 assembly
 ![image](https://user-images.githubusercontent.com/26767411/175855804-235f3812-ac24-45e1-a7b0-bd2b84fad10b.png)
 
