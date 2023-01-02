@@ -15,7 +15,7 @@
 - Robotics and control
 - Computer vision
 - ML
-- Computers, especially computer architecture
+- Computer architecture
 
 ## :space_invader: Projects
 
