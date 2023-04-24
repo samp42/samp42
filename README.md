@@ -6,7 +6,7 @@
 </div>
 
 ## :alien: About me
-- FRC Alumnus, team 3990
+- FRC Alumnus, currently mentor for team 3990
 - Currently pursuing a bachelor's degree in Computer Engineering at McGill University
 - My favorite repository on github :octocat: is [the apollo guidance computer assembly code](https://github.com/chrislgarry/Apollo-11) :earth_americas::rocket::moon:
 
