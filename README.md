@@ -7,7 +7,7 @@
 
 ## :alien: About me
 - Member of McGill Rocket Team, working on Motorized Atenna at Ground Station (MAGS)
-- FRC Alumnus, former mentor for team 3990
+- FRC Alumnus, former mentor of team 3990
 - Currently pursuing a bachelor's degree in Computer Engineering at McGill University and a minor in applied AI
 - My favorite repository on github :octocat: is [the apollo guidance computer assembly code](https://github.com/chrislgarry/Apollo-11) :earth_americas::rocket::moon:
 
